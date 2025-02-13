@@ -1,7 +1,7 @@
 import random
 
-start_numb = int(input("Enter start number - "))
-end_numb = int(input("Enter end number - "))
+start_num = int(input("Enter start number - "))
+end_num = int(input("Enter end number - "))
 print("Succesfuly")
 
 while True:
